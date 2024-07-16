@@ -55,9 +55,11 @@ This project focuses on developing a production-ready machine learning workflow 
 To run these projects, you'll need the following:
 
 * Python environment with necessary libraries (refer to `requirements.txt` files in each project directory for specific dependencies).
+* ......
 
 Within each project directory, refer to the individual `README.md` files for detailed instructions on setting up the environment, running the code, and interpreting the results.
 
 ## Additional Notes
 
+* ......
 This repository serves as a showcase of your skills in machine learning and deep learning on AWS. Feel free to tailor it further to enhance your professional portfolio or personal learning journey.
